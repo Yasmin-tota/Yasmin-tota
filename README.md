@@ -1,7 +1,31 @@
-### Hi there 👋
+<h2 align="center">
+    Hi There 👋, I'm Yasmeen Ahmed 👨🏻‍💻
+</h2>
 
+
+
+
+- 🌱 I’m currently learning t be a FrontEnd Developer.
+- 💬 Ask me about anything 😄.
+- 📫 To reach me 👇
+
+    [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmeen-ahmed-a45806130/)
+    [![](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmeenahmed133@gmail.com)
+
+<h2 align="center">
+  Languages and Tools
+</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,css,html,bootstrap,git,json" />
+</p>
+
+
+
+
+
+<!-- ### Hi there 👋, I am Yasmeen Ahmed -->
 <!--
-**Yasmin-tota/Yasmin-tota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yasmeen/Yasmeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
