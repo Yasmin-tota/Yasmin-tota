@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning t be a FrontEnd Developer.
+- 🌱 I’m currently learning to be a FrontEnd Developer.
 - 💬 Ask me about anything 😄.
 - 📫 To reach me 👇
 
